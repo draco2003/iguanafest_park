@@ -1,4 +1,4 @@
-![IguanaFest](./logo.png)
+![IguanaFest](https://raw.githubusercontent.com/draco2003/iguanafest_park/master/logo.png)
 
 ## IguanaFest.org
 
